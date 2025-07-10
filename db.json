@@ -1,0 +1,118 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "year": 2019,
+      "cover": "buku/atomic.jpg",
+      "category": "Self Improvement",
+      "available": true
+    },
+    {
+      "id": "2",
+      "title": "Laskar Pelangi",
+      "author": "Andrea Hirata",
+      "year": 2005,
+      "cover": "buku/laskar.jpg",
+      "category": "Novel",
+      "available": true
+    },
+    {
+      "id": "3",
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "year": 2011,
+      "cover": "buku/sapiens.jpg",
+      "category": "History",
+      "available": true
+    },
+    {
+      "id": "4",
+      "title": "Filosofi Teras",
+      "author": "Henry Manampiring",
+      "year": 2018,
+      "cover": "buku/filosofi.jpg",
+      "category": "Self Improvement",
+      "available": true
+    },
+    {
+      "id": "5",
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "year": 1997,
+      "cover": "buku/rich.jpg",
+      "category": "Finance",
+      "available": false
+    },
+    {
+      "id": "6",
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt, David Thomas",
+      "year": 1999,
+      "cover": "buku/pragmatic.jpg",
+      "category": "Programming",
+      "available": true
+    },
+    {
+      "id": "7",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "cover": "buku/kill.jpg",
+      "category": "Classic",
+      "available": true
+    },
+    {
+      "id": "8",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "year": 2008,
+      "cover": "buku/clean.jpg",
+      "category": "Programming",
+      "available": true
+    },
+    {
+      "id": "9",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "year": 1988,
+      "cover": "buku/alchemist.jpg",
+      "category": "Novel",
+      "available": true
+    },
+    {
+      "id": "10",
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "year": 2011,
+      "cover": "buku/thinking.jpg",
+      "category": "Psychology",
+      "available": false
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "email": "admin@eperpus.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "user",
+      "email": "user@eperpus.com",
+      "password": "user123",
+      "role": "user"
+    },
+    {
+      "id": "0d79",
+      "username": "farhan",
+      "email": "farhan@gmail.com",
+      "password": "123",
+      "role": "user"
+    }
+  ],
+  "bookings": []
+}
