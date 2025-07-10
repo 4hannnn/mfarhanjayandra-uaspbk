@@ -111,7 +111,7 @@ Sistem Perpustakaan Digital yang memungkinkan user melakukan booking/peminjaman 
 ---
 
 ## Author
-- Nama: [Isi Nama Anda]
-- NIM: [Isi NIM Anda]
+- Nama: [Muhammad Farhan Jayandra]
+- NPM: [233510171]
 - Mata Kuliah: Pemrograman Berbasis Komponen (PBK)
 - Tugas Akhir / UAS PBK
